@@ -21,10 +21,10 @@ In your project’s build.gradle add the following line
     maven { url ‘https://jitpack.io’ }
 ```
 ```
-and in your app’s build.gradle add the dependency
+And in your app’s build.gradle add the dependency
 ```
 ```
-    implementation 'com.github.mandipkanjiya:HeyFlyerAirportData-Android:1.0.0'
+     implementation 'com.github.heyflyer:android-app-sdk:1.0.0'
 ```
 
 
@@ -36,11 +36,11 @@ and in your app’s build.gradle add the dependency
 In your app’s build.gradle add the dependency
 ```
 ```
-    <dependency> 
-     <groupId>com.github.mandipkanjiya</groupId>
-     <artifactId>HeyFlyerAirportData-Android</artifactId> 
-     <version>1.0.0</version> 
-    </dependency>
+   	<dependency>
+	    <groupId>com.github.heyflyer</groupId>
+	    <artifactId>android-app-sdk</artifactId>
+	    <version>1.0.0</version>
+	</dependency>
 ```
 
 ## Usage
